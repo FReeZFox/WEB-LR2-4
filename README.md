@@ -1,7 +1,9 @@
+#BookStore
+
 ##BackEnd
-npm install
-npm run dev
+```npm install```
+```npm run dev```
 
 ##FrontEnd
-npm install
-npm start
+```npm install```
+```npm start```
